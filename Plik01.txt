@@ -4,3 +4,5 @@ Zmiana03
 Zmiana04
 Zmiana05
 Zmiana 07c
+
+naprawa błędów - hotFix-001
