@@ -4,5 +4,12 @@ Zmiana03
 Zmiana04
 Zmiana05
 Zmiana 07c
+<<<<<<< HEAD
 
 naprawa błędów - hotFix-001
+oraz
+Dodano asystenta pomocy
+Uproszczenie interefejsiu graficznego
+easierApp
+
+Zmiana08
