@@ -10,3 +10,4 @@ Zmiana 10
 Zmiana 10b
 Zmiana11
 Zmiana12wClonie
+Zmiana13
